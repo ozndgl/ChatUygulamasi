@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141188100564",
+    "firebase_url": "https://mesajlasma-86c61.firebaseio.com",
+    "project_id": "mesajlasma-86c61",
+    "storage_bucket": "mesajlasma-86c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141188100564:android:dab293f15f6124bdada641",
+        "android_client_info": {
+          "package_name": "com.example.chatuygulamas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141188100564-iqtds29aprrc20999nt6khdcvbneehp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatuygulamas",
+            "certificate_hash": "12200f90ffc047194ec566d589768906e9637d95"
+          }
+        },
+        {
+          "client_id": "141188100564-r2l8iaghrsht4d1h8qof3c04dmqq8aii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIl4x-28N6O7NYaODAb-9WPIwpJnbIdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141188100564-r2l8iaghrsht4d1h8qof3c04dmqq8aii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
